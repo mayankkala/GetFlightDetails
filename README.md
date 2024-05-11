@@ -12,6 +12,8 @@ This project is an AI-powered app that allows users to inquire about flight deta
 
 - **User-Friendly Interface:** The interface is designed to be intuitive and easy to use, making it accessible for a wide range of users.
 
+- **Function Calling:** The app utilizes function calling to handle user queries and retrieve accurate flight information.
+
 ## Getting Started
 
 ### Prerequisites
